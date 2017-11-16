@@ -1,0 +1,7 @@
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw2\hw2\bin\Debug\hw2.exe.config
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw2\hw2\bin\Debug\hw2.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw2\hw2\bin\Debug\hw2.pdb
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw2\hw2\obj\Debug\hw2.csprojResolveAssemblyReference.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw2\hw2\obj\Debug\hw2.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw2\hw2\obj\Debug\hw2.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw2\hw2\obj\Debug\hw2.pdb

@@ -1,0 +1,7 @@
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab7\lab7\bin\Debug\lab7.exe.config
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab7\lab7\bin\Debug\lab7.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab7\lab7\bin\Debug\lab7.pdb
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab7\lab7\obj\Debug\lab7.csprojResolveAssemblyReference.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab7\lab7\obj\Debug\lab7.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab7\lab7\obj\Debug\lab7.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab7\lab7\obj\Debug\lab7.pdb

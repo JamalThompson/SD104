@@ -1,0 +1,7 @@
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\bmi-Calculator\bmi-Calculator\bin\Debug\bmi-Calculator.exe.config
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\bmi-Calculator\bmi-Calculator\bin\Debug\bmi-Calculator.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\bmi-Calculator\bmi-Calculator\bin\Debug\bmi-Calculator.pdb
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\bmi-Calculator\bmi-Calculator\obj\Debug\bmi-Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\bmi-Calculator\bmi-Calculator\obj\Debug\bmi-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\bmi-Calculator\bmi-Calculator\obj\Debug\bmi-Calculator.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\bmi-Calculator\bmi-Calculator\obj\Debug\bmi-Calculator.pdb

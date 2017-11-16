@@ -1,0 +1,7 @@
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab4\lab4\bin\Debug\lab4.exe.config
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab4\lab4\bin\Debug\lab4.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab4\lab4\bin\Debug\lab4.pdb
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab4\lab4\obj\Debug\lab4.csprojResolveAssemblyReference.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab4\lab4\obj\Debug\lab4.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab4\lab4\obj\Debug\lab4.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab4\lab4\obj\Debug\lab4.pdb

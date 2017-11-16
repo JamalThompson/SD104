@@ -1,0 +1,7 @@
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab5-game-of-23\lab5-game-of-23\obj\Debug\lab5-game-of-23.csprojResolveAssemblyReference.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab5-game-of-23\lab5-game-of-23\obj\Debug\lab5-game-of-23.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab5-game-of-23\lab5-game-of-23\bin\Debug\lab5-game-of-23.exe.config
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab5-game-of-23\lab5-game-of-23\bin\Debug\lab5-game-of-23.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab5-game-of-23\lab5-game-of-23\bin\Debug\lab5-game-of-23.pdb
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab5-game-of-23\lab5-game-of-23\obj\Debug\lab5-game-of-23.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\lab5-game-of-23\lab5-game-of-23\obj\Debug\lab5-game-of-23.pdb
