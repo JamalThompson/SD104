@@ -1,0 +1,7 @@
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw4-alt\hw4-alt\obj\Debug\hw4-alt.csprojResolveAssemblyReference.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw4-alt\hw4-alt\obj\Debug\hw4-alt.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw4-alt\hw4-alt\bin\Debug\hw4-alt.exe.config
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw4-alt\hw4-alt\bin\Debug\hw4-alt.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw4-alt\hw4-alt\bin\Debug\hw4-alt.pdb
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw4-alt\hw4-alt\obj\Debug\hw4-alt.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw4-alt\hw4-alt\obj\Debug\hw4-alt.pdb
