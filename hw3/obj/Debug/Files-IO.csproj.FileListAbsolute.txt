@@ -1,0 +1,7 @@
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw3\obj\Debug\Files-IO.csprojResolveAssemblyReference.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw3\obj\Debug\Files-IO.csproj.CoreCompileInputs.cache
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw3\bin\Debug\Files-IO.exe.config
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw3\bin\Debug\Files-IO.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw3\bin\Debug\Files-IO.pdb
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw3\obj\Debug\Files-IO.exe
+C:\Users\Student2\Documents\Edge Tech Projects\Sd104\hw3\obj\Debug\Files-IO.pdb
